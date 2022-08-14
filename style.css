@@ -1,0 +1,11 @@
+QPushButton{
+    color: red;
+    background-color: rgba(255,255,255,0.7) !important;
+    border-radius: 5px;
+}
+QLabel {
+    color: blue;
+}
+QWidget#window {
+    background-color: rgba(30, 30, 30, 1);
+}
